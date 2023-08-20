@@ -12,7 +12,6 @@ E aí!👋 Eu sou o Jean, muito prazer🤠
 🤔&nbsp; Aprendendo a centralizar uma div
 </p>
 
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenciguerJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
