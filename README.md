@@ -9,7 +9,7 @@ E aí!👋 Eu sou o Jean, muito prazer🤠
 <br>
 🤖&nbsp; Cursando ADS na <a href="https://www.unip.br">UNIP</a>
 <br>
-🤔&nbsp; Aprendendo usar DOM
+🤔&nbsp; Aprendendo usar Flask e todos os frameworks de javascript
 </p>
 
 
